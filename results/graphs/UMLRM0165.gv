@@ -1,0 +1,9 @@
+// Notice UMLRM0165
+digraph UMLRM0165 {
+	node [align=left shape=rect]
+	size="20,20"
+	rankdir=BT
+	UMLRM0165 [label="Mahler, Gustav
+(1860-1911), Choix,
+Symphonies" color=red]
+}

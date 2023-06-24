@@ -1,0 +1,410 @@
+Identifiant	Label	Type
+UMLRM0003	Nosferatu, Réalisation Friedrich W. Murnau, RDM vidéo - RDM vidéo, [DL 2012] - 2011, 1 DVD vidéo, monoface simple couche, 4/3, 24 im./s, PAL, toutes zones	m
+UMLRM0006	Dracula, Bram Stoker, Pan books -  Imprimerie Firmin-Didot, 1992, 1 volume (382 pages), couverture illustrée en couleur	m
+UMLRM0009	Nosferatu, fantôme de la nuit, un film de Werner Herzog,  Gaumont vidéo -  Gaumont vidéo, [DL 2010], 1 BD vidéo	m
+UMLRM0012	"Nosferatu le vampire, Paola Palma, Dimitri Vezyroglou, Atlande, DL 2021, 1 volume (221 pages)	m
+UMLRM0015	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra,  Opéra national de Paris, Opéra national de Paris, C 2005, 1 volume (54 pages)	m
+UMLRM0018	Dracula, by Bram Stoker, W. Rider and son, 1992, 1 volume (VIII-404 pages)	m
+UMLRM0021	Dracula, Bram Stoker, J'ai lu - mprimerie Brodard et Taupin, 2005, 1 volume (574 pages), couverture illustrée en couleur	m
+UMLRM0024	Dracula, Bram Stoker, Gérard et Cie, 1963, 1 volume (569 pages), couverture illustrée en couleur	m
+UMLRM0027	Dracula, Bram Stoker, Éd. J'ai lu - mprimerie Brodard et Taupin, 1992, 1 volume (XXIV-505 pages), illustrations, couverture illustrée	m
+UMLRM0030	Dracula, Bram Stoker, Hachette - Imprimerie Brodard et Taupin, 1988, 1 volume (534 pages), couverture illustrée en couleur	m
+UMLRM0033	Dracula, Bram Stoker, Magnard, 2014, 1 volume (217 pages), couverture illustrée	m
+UMLRM0036	Dracula, d'après Bram Stoker, Sélection du "Reader's digest", 1998, 1 volume (64 pages), couverture illustrée en couleur	m
+UMLRM0039	Dracula, Bram Stoker, Flammarion - Imprimerie Maury-Eurolivres, 2006, 1 volume (222 pages), couverture illustrée	m
+UMLRM0042	Dracula, Bram Stoker, J'ai lu, 2012, 1 volume (679 pages), couverture illustrée en couleur	m
+UMLRM0045	Dracula, Bram Stoker, Le camion blanc - Imprimerie Acort Europe, 2010, 1 volume (741 pages), couverture illustrée en couleur	m
+UMLRM0048	Dracula, Bram Stoker, Flammarion, DL 2017, 1 volume (222 pages - [4] pages), couverture illustrée	m
+UMLRM0051	Dracula, Bram Stoker, Pointdeux, DL 2013, 1 volume (919 pages), couverture illustrée	m
+UMLRM0054	Dracula, Bram Stoker, le Livre de poche jeunesse, DL 2015, 1 volume (321 pages), couverture illustrée en couleur	m
+UMLRM0057	Dracula, Brahm Stoker, l’Édition française illustrée, 1920, 1 volume (263 pages), couverture illustrée	m
+UMLRM0060	Dracula, Brahm Stoker, Éditions J. Tallandier, 1932, 1 volume (96 pages – planches non numérotées), couverture illustrée en couleur	m
+UMLRM0063	Dracula, Bram Stoker, les Éditions des Quatre-vents, 1946, 1 volume (344 pages), couverture illustrée	m
+UMLRM0066	Drácula, Bram Stoker, Maxtor, DL 2017, 1 volume (540 pages), couverture illustrée en couleur	m
+UMLRM0069	Dracula, Bram Stoker, l'École des loisirs - Imprimerie CPI Firmin-Didot, DL 2019, 1 volume (232 pages), couverture illustrée	m
+UMLRM0072	Bram Stoker, Barbara Belford, Weidenfeld and Nicolson, 1996, 1 volume(XV-381 pages), couverture illustrée	m
+UMLRM0077	Dracula - suivi de L'invité de Dracula, Bram Stoker, Pocket, 2011, 1 volume (575 pages), couverture illustrée	m
+UMLRM0080	Bram Stoker's Dracula, Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs], Sony pictures entertainment, 1993 - 1992, 2 LaserDiscs,  4/3, NTSC	m
+UMLRM0083	"Dracula", ouvrage dirigé par Gilles Menegaldo et Dominique Sipière, Ellipses - Aubin imprimeur, 2005, 1 volume (379 pages), couverture illustrée	m
+UMLRM0086	Dracula, Matei Cazacu, Tallandier - Normandie roto impression, 2011, 1 volume (497 pages), couverture illustrée en couleur	m
+UMLRM0089	Le vampire au fil des siècles, Estelle Valls de Gomis, Cheminements - Imprimerie Darantière, DL 2005, 1 volume (471 pages-[16] pages de planches.), couverture illustrée en couleur	m
+UMLRM0092	Nosferatu, Idol FX AB, Pan vision, Eidos - Mindscape, [2005] - 2005, 1 disque optique numérique (CD-ROM)	m
+UMLRM0095	Nosferatu, Idol FX AB, Pan vision, Neo publishing, [2003] - 2003, 1 disque optique numérique (CD-ROM)	m
+UMLRM0101	Nosferatu, [texte et dessins de] Druillet, Dargaud - Imprimerie Publiphotoffset, 1988, 1 volume (63 pages)	m
+UMLRM0104	Nosferatu, Druillet, Albin Michel, 2001, 1 volume (non paginé [55] pages), couverture illustrée	m
+UMLRM0107	Dracula has risen from the grave‎, starring Christopher Lee, Rupert Davies, Warner home video - Warner home video France, [1995], 1 cassette vidéo, VHS, NTSC	m
+UMLRM0110	Dracula, Bram Stoker, Éditions Opta, 1968, 1 volume (XX-413 pages), illustrations en noir et blanc, cartonnage illustré	m
+UMLRM0113	 Bram Stoker’s Dracula, William Hughes, Continuum, copyright 2009, 1 volume (VII-150 pages)	m
+UMLRM0116	Dracula l'immortel, Dacre Stoker et Ian Holt, Michel Lafon, DL 2009, 1 volume (505 pages), couverture illustrée en couleur	m
+UMLRM0119	Dracula l'immortel, scénario, Michel Dufranne, Michel Lafon - Casterman - Imprimerie Pollina, 2012, 1 volume (48 pages), couverture illustrée en couleur	m
+UMLRM0122	Dracula, mort et heureux de l’être, un film de Mel Brooks, Gaumont vidéo - Paramount home entertainment, 2009, 1 DVD vidéo, monoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, zone 2	m
+UMLRM0128	Bram Stoker’s notes for “Dracula “, Bram Stoker, McFarland & Company Inc. Publishers, 2008, 1 volume (VII-331 pages)	m
+UMLRM0131	L'ombre du vampire, E. Elias Merhige, [réalisateur], Studio Canal+ - Universal pictures vidéo France SA, [DL 2001], 1 cassette vidéo, VHS, SECAM, surround (Dolby), zone 2	m
+UMLRM0134	Max Schreck, Stefan Eickhoff, Belleville, Copyright 2009, 1 volume. (575 pages), couverture illustrée	m
+UMLRM0137	Dracula, un film de Guy Maddin, [réalisateur], ED distribution - ED distribution, [DL 2005], 1 DVD vidéo, monoface simple couche, PAL, surround (Dolby), toutes zones	m
+UMLRM0140	[Maquette de décor en volume pour "Nosferatu"], [Daniel Jeanneteau et Laure Deratte], [2001], 1 maquette en volume	m
+UMLRM0158	Dracula, music by Philip Glass, [WEA Europe] - [distrib. Warner music France], [P 1999], 1 disque compact	m
+UMLRM0160	Dracula, Tod Browning, [réalisateur], Universal StudioCanal vidéo - Universal StudioCanal vidéo, 2014 - 2014, 1 BD vidéo	m
+UMLRM0168	Guy Maddin, ED distribution - ED distribution, [DL 2012], 4 DVD vidéo, monoface simple couche, PAL, toutes zones	m
+UMLRM0171	Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, [V. Gauriat], ED distribution - Imprimerie Karcher, [2003], 1 feuille	m
+UMLRM0173	Dracula, Bram Stoker, Flammarion - Imprimerie Maury-Eurolivres, 2004, 1 volume (247 pages), couverture illustrée	m
+UMLRM0176	Les grands classiques du cinéma allemand, RDM vidéo - RDM vidéo, [DL 2013], 7 DVD vidéo, monoface double couche, 4/3, PAL, toutes zones	m
+UMLRM0177	Dracula, Bram Stoker, Dorling Kindersley, 1997, 1 volume (64 pages), couverture illustrée en couleur	m
+UMLRM0178	Dracula, Bram Stoker, Hachette -  Imprimerie CPI Bussière, 2011, 1 volume (321 pages), couverture illustrée en couleur	m
+UMLRM0179	Dracula, Bram Stoker, Hatier, DL 2013, 1 volume (317 pages), illustrations, couverture illustrée en couleur	m
+UMLRM0182	Dracula et les femmes, avec Christopher Lee, Rupert Davies, Warner home video France - Warner home video France, DL 1985, 1 cassette vidéo, VHS, SECAM	m
+UMLRM0185	L'ombre du vampire, E. Elias Merhige, [réalisateur], Studio Canal+ - Universal pictures vidéo France SA, [DL 2001], 1 DVD vidéo, monoface, 16/9 compatible 4/3, PAL, Dolby digital 5.1, zone 2	m
+UMLRM0188	Dracula, Bram Stoker, Livraphone, [DL 2009], 2 CD MP3	m
+UMLRM0190	Mel Brooks, Gaumont vidéo - Paramount home entertainment, [2015], 2 DVD vidéo, monoface double couche, 16/9 compatible 3/4, PAL, Dolby surround 2.0, toutes zones	m
+UMLRM0193	Dracula, starring Orson Welles, Radio spirits, P 2001, 1 CD audio	m
+UMLRM0197	Bibliographie de Dracula, Jacques Finné, L’âge d'homme, Copyright 1996, 1 volume(215 pages)	m
+UMLRM0199	Dictionnaire des littératures vampiriques, Jacques Finné, Jean Marigny, Terre de brume, 2020, 1 volume(332 pages)	m
+UMLRM0002	Nosferatu, eine Symphonie des Grauens, film	e
+UMLRM0005	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0008	Nosferatu, Phantom der Nacht, film	e
+UMLRM0011	Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), "Nosferatu le vampire", Texte noté	e
+UMLRM0014	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05, Texte noté. Image fixe	e
+UMLRM0020	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0032	Stoker, Bram (1847-1912), Choix, Dracula, Texte noté	e
+UMLRM0035	Humphries, Tudor (1953-….), Dracula, Texte noté. Image fixe	e
+UMLRM0038	Stoker, Bram (1847-1912), Choix, Dracula, Texte noté	e
+UMLRM0041	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0047	Stoker, Bram (1847-1912), Choix, Dracula, Texte noté	e
+UMLRM0050	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0053	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0056	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0059	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0065	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0068	Stoker, Bram (1847-1912), Dracula, Texte noté	e
+UMLRM0071	Belford, Barbara, Bram Stoker : a biography of the author of "Dracula", Texte noté	e
+UMLRM0076	Stoker, Bram (1847-1912), Dracula’s guest, Texte noté	e
+UMLRM0079	Bram Stoker's Dracula, film	e
+UMLRM0082	"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola, Texte noté	e
+UMLRM0085	Cazacu, Matei (1946-....), Dracula, Texte noté	e
+UMLRM0088	Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe, Texte noté	e
+UMLRM0091	Nosferatu, the wrath of Malachi, jeu vidéo	e
+UMLRM0100	Druillet, Philippe (1944-....), Nosferatu, Texte noté. Image fixe	e
+UMLRM0106	Dracula has risen from the grave, film	e
+UMLRM0112	Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide, Texte noté	e
+UMLRM0115	Stoker, Dacre - Holt, Ian (1964-….), Dracula, the un-dead, Texte noté	e
+UMLRM0118	Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel, Texte noté. Image fixe	e
+UMLRM0121	Dracula, dead and loving it, film	e
+UMLRM0127	Stoker, Bram (1847-1912), Choix, Manuscrits, Texte noté	e
+UMLRM0130	Shadow of the vampire, film	e
+UMLRM0133	Eickhoff, Stefan, Max Schreck : Gespenstertheater, Texte noté	e
+UMLRM0136	Dracula : pages from a virgin's diary, film	e
+UMLRM0139	Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"], Image fixe	e
+UMLRM0148	Nosferatu, spectacle, 2001	e
+UMLRM0151	Druillet, Philippe (1944-....), Illustrations pour "Dracula" de Bram Stoker, Image fixe	e
+UMLRM0153	[Photographies extraites du film « Dracula » de Tod Browning], 1932, Image fixe	e
+UMLRM0157	Glass, Philip (1937-....), Dracula, Musique exécutée	e
+UMLRM0159	Dracula, film, 1931	e
+UMLRM0161	Humphries, Tudor (1953-….), Dracula, Texte noté. Image fixe	e
+UMLRM0162	Drácula, film, 1931	e
+UMLRM0167	Guy Maddin, Image animée	e
+UMLRM0170	Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin, Image fixe	e
+UMLRM0172	Stoker, Bram (1847-1912), Choix, Dracula, Texte noté	e
+UMLRM0175	Les grands classiques du cinéma allemand, Image animée	e
+UMLRM0181	Dracula has risen from the grave, film	e
+UMLRM0184	Shadow of the vampire, film	e
+UMLRM0187	Stoker, Bram (1847-1912), Dracula, Parole énoncée	e
+UMLRM0189	Dracula, dead and loving it, film	e
+UMLRM0192	Dracula, émission radiophonique, 1938, Parole énoncée. Musique exécutée	e
+UMLRM0196	Finné, Jacques (1944-….), Bibliographie de Dracula, Texte noté	e
+UMLRM0198	Finné, Jacques (1944-….) - Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques, Texte noté	e
+UMLRM0001	Nosferatu, eine Symphonie des Grauens, film	o
+UMLRM0004	Stoker, Bram (1847-1912), Dracula	o
+UMLRM0007	 Nosferatu, Phantom der Nacht, film	o
+UMLRM0010	Palma, Paola (1971-….) - Vezyroglou, Dimitri (1970-….), "Nosferatu le vampire"	o
+UMLRM0013	Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra, programme, 2006-05	o
+UMLRM0031	Stoker, Bram (1847-1912), Choix, Dracula	o
+UMLRM0034	Humphries, Tudor (1953-….), Dracula	o
+UMLRM0037	Stoker, Bram (1847-1912), Choix, Dracula	o
+UMLRM0070	Belford, Barbara, Bram Stoker : a biography of the author of "Dracula	o
+UMLRM0075	Stoker, Bram (1847-1912), Dracula's guest	o
+UMLRM0078	Bram Stoker's Dracula, film	o
+UMLRM0081	"Dracula" : l'oeuvre de Bram Stoker et le film de Francis F. Coppola	o
+UMLRM0084	Cazacu, Matei (1946-....), Dracula	o
+UMLRM0087	Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : enquête autour d'un mythe	o
+UMLRM0090	Nosferatu, the wrath of Malachi, jeu vidéo	o
+UMLRM0099	Druillet, Philippe (1944-....), Nosferatu	o
+UMLRM0105	Dracula has risen from the grave, film	o
+UMLRM0111	Hughes, William (1964-....), Bram Stoker’s Dracula : a reader’s guide	o
+UMLRM0114	Stoker, Dacre - Holt, Ian (1964-….), Dracula, the un-dead	o
+UMLRM0117	Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel	o
+UMLRM0120	Dracula, dead and loving it, film	o
+UMLRM0126	Stoker, Bram (1847-1912), Choix, Manuscrits	o
+UMLRM0129	Shadow of the vampire, film	o
+UMLRM0132	Eickhoff, Stefan, Max Schreck : Gespenstertheater	o
+UMLRM0135	Dracula: pages from a virgin's diary, film	o
+UMLRM0138	Jeanneteau, Daniel (1963-....) - Deratte, Laure (19..-....), [Maquette de décor en volume pour "Nosferatu"]	o
+UMLRM0141	Valls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : docimasie d'un mythe	o
+UMLRM0142	Gallotta, Jean-Claude (1950-....), Nosferatu	o
+UMLRM0143	Dusapin, Pascal (1955-....), Extenso	o
+UMLRM0144	Dusapin, Pascal (1955-....), Apex	o
+UMLRM0145	Dusapin, Pascal (1955-....), Watt	o
+UMLRM0146	Dusapin, Pascal (1955-....), Celo	o
+UMLRM0147	Nosferatu, spectacle, 2001	o
+UMLRM0149	Finné, Jacques (1944-….) - Marigny, Jean (1939-....), Dictionnaire des littératures vampiriques	o
+UMLRM0150	Druillet, Philippe (1944-....), [Illustrations pour "Dracula" de Bram Stoker]	o
+UMLRM0152	[Photographies extraites du film "Dracula" de Tod Browning], 1932	o
+UMLRM0154	Dracula, film, 1931	o
+UMLRM0155	Deane, Hamilton (1879-1958) - Balderston, John L. (1889-1954), Dracula	o
+UMLRM0156	Glass, Philip (1937-....), Dracula	o
+UMLRM0163	Drácula, film, 1931	o
+UMLRM0164	Godden, Mark, Dracula	o
+UMLRM0165	Mahler, Gustav (1860-1911), Choix, Symphonies	o
+UMLRM0166	Guy Maddin	o
+UMLRM0169	Gauriat, Vincent, Dracula, pages tirées du journal d’une vierge, un film de Guy Maddin	o
+UMLRM0174	Les grands classiques du cinéma allemand	o
+UMLRM0180	Dracula, film ; série	o
+UMLRM0186	Dufranne, Michel (1970-....) - Kowalski, Piotr (1973-....), Dracula l’immortel	o
+UMLRM0191	Dracula, émission radiophonique, 1938	o
+UMLRM0194	The Mercury theatre on the air, série radiophonique	o
+UMLRM0195	Finné, Jacques (1944-….), Bibliographie de Dracula 	o
+UMLRM1000	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1000	i
+UMLRM1001	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1001	i
+UMLRM1002	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1002	i
+UMLRM1003	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1003	i
+UMLRM1004	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1004	i
+UMLRM1005	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1005	i
+UMLRM1006	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1006	i
+UMLRM1007	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1007	i
+UMLRM1008	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1008	i
+UMLRM1009	BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1009	i
+UMLRM1010	BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1010	i
+UMLRM1011	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1011	i
+UMLRM1012	BM_CELESTEVILLE > JEUNESSE > COTE_UMLMR1012	i
+UMLRM1013	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1013	i
+UMLRM1014	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1014	i
+UMLRM1015	BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1015	i
+UMLRM1016	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1016	i
+UMLRM1017	BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1017	i
+UMLRM1018	BM_CELESTEVILLE > LANGUES > COTE_UMLRM1018	i
+UMLRM1019	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1019	i
+UMLRM1020	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1020	i
+UMLRM1021	BM_CELESTEVILLE > LANGUES > Cote_UMLRM1021	i
+UMLRM1022	BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1022	i
+UMLRM1023	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1023	i
+UMLRM1024	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1024	i
+UMLRM1025	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1025	i
+UMLRM1026	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1026	i
+UMLRM1027	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1027	i
+UMLRM1028	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1028	i
+UMLRM1029	BM_CELESTEVILLE >  MEZZANINE > COTE_UMLRM1029	i
+UMLRM1030	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1030	i
+UMLRM1032	BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1032	i
+UMLRM1033	BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1033	i
+UMLRM1034	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1034	i
+UMLRM1035	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1035	i
+UMLRM1036	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1036	i
+UMLRM1037	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1038	i
+UMLRM1038	BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1038	i
+UMLRM1039	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1039	i
+UMLRM1041	BM_CELESTEVILLE > LANGUES > COTE_UMLRM1041	i
+UMLRM1042	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1042	i
+UMLRM1043	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1043	i
+UMLRM1044	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1044	i
+UMLRM1045	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1045	i
+UMLRM1046	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1046	i
+UMLRM1047	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1047	i
+UMLRM1048	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1048	i
+UMLRM1049	BM_CELESTEVILLE > MEZZANINE > COTE_UMLRM1049	i
+UMLRM1050	BM_CELESTEVILLE > JEUNESSE > COTE_UMLRM1050	i
+UMLRM1051	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1051	i
+UMLRM1052	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1052	i
+UMLRM1053	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1053	i
+UMLRM1054	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1054	i
+UMLRM1055	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1055	i
+UMLRM1056	BM_CELESTEVILLE > ADULTES > COTE_UMLRM1056	i
+FRBNF138761797	Livraphone	l
+FRBNF114472535	Faivre	p
+FRBNF138766730	Nonesuch	l
+FRBNF119759959	20e siècle	t
+FRBNF119810108	Orchestre, Musique d'	g
+FRBNF119628415	Dracula	p
+FRBNF123108018	Concertos (violoncelle)	g
+FRBNF119365081	Littérature, Thèmes, motifs	t
+FRBNF123107172	Concertos (trombone)	g
+FRBNF140108885	Ed distribution	c
+FRBNF138904633	WEA Europe	c
+FRBNF138890500	Livraphone	c
+FRBNF155519020	Katz, 1959-....	p
+FRBNF155137309	Idol FX AB	c
+FRBNF139397275	Coulouris, 1903-1989	p
+FRBNF144661310	Pan vision corporate games	c
+FRBNF119459723	Vampires	t
+FRBNF146763424	Deratte, 19..-....	p
+FRBNF146911079	Melford, 1877-1961	p
+FRBNF119770069	Programmes	g
+FRBNF16166678X	Stoker	p
+FRBNF119758323	Illustrations	g
+FRBNF138904569	Warner home video France	c
+FRBNF140332082	Universal pictures vidéo France SA	c
+FRBNF150624252	Royal Winnipeg Ballet	c
+FRBNF165376229	Eickhoff	p
+FRBNF141734792	Duchiron	p
+FRBNF139058638	Popol Vuh	c
+FRBNF161666391	Holt, 1964-....	p
+FRBNF119314076	Films de vampires	g
+FRBNF13545625X	Films de danse	g
+FRBNF119453097	Opéra national de Paris, Ballet	c
+FRBNF133183243	Bibliographie	g
+FRBNF133438103	Jouve, 19..-....	p
+FRBNF165084538	Birtwhistle	p
+FRBNF138818369	Lions gate productions	c
+FRBNF139382992	Hérisson	p
+FRBNF162422739	Films de fiction	g
+FRBNF11980577X	Films d'horreur	g
+FRBNF119805399	Affiches de cinéma	g
+FRBNF119497987	Roman épistolaire	g
+FRBNF14623074X	Deschamps, 1977-....	p
+FRBNF140481044	Gabel, 1912-1986	p
+FRBNF120567500	Chatain, 1957-....	p
+FRBNF150729036	Kowalski, 1973-....	p
+FRBNF133189029	Jeux vidéo	g
+FRBNF119458219	Littérature d'épouvante	g
+FRBNF165553836	Bandes dessinées fantastiques	g
+FRBNF178630115	Roman fantastique	g
+FRBNF121110515	Lullien	p
+FRBNF155399852	Dufranne, 1970-....	p
+FRBNF141792728	Fuchs	p
+FRBNF137423860	Belford	p
+FRBNF141209894	Merhige, 1964-....	p
+FRBNF14169469X	Davies, 1916-1976	p
+FRBNF15547545X	Sirgent, 1954-....	p
+FRBNF138904601	Warner music France	c
+FRBNF119124422	Lenne, 1946-....	p
+FRBNF148943855	Gauriat	p
+FRBNF142236392	Saint-Père	p
+FRBNF139382946	Rey, 19..-....	p
+FRBNF119750860	Théâtre radiophonique	g
+FRBNF135586182	Imprimerie A. Karcher	c
+FRBNF141713403	Dessaux, 1961-....	p
+FRBNF140012577	Francis, 1917-2007	p
+FRBNF126262854	Molitor	p
+FRBNF13979881X	Studio Canal plus	c
+FRBNF14029412X	Pitaressi	p
+FRBNF138914182	Bernard, 1925-2001	p
+FRBNF144730265	Cassou-Noguès	p
+FRBNF144730272	Langenhagen, 1975-....	p
+FRBNF119372994	Musique de film	g
+FRBNF119164025	Moissard, 1942-....	p
+FRBNF140281410	Trudel, 1966-....	p
+FRBNF131676426	Hammer Film Productions	c
+FRBNF119416280	Columbia broadcasting system	c
+FRBNF13939901X	Leclerc	p
+FRBNF146740087	Colladant	p
+FRBNF119310195	Bandes dessinées	g
+FRBNF147025118	Tovar, 1910-2016	p
+FRBNF119600597	Décors de ballet	t
+FRBNF119357647	Biographie	g
+FRBNF14179539X	Gaber, 1962-....	p
+FRBNF120524851	Chicheportiche, 1957-....	p
+FRBNF162593964	Eighteen-Bisang	p
+FRBNF140915238	Deane, 1879-1958	p
+FRBNF151212091	Schreck, 1879-1936	p
+FRBNF141227718	Moravioff	p
+FRBNF129385520	Sadoul	p
+FRBNF139556382	Elwes, 1962-....	p
+FRBNF139055026	Opéra national de Paris, Orchestre	c
+FRBNF140512109	Fricke, 1944-2001	p
+FRBNF168030549	Svart, 1978-....	p
+FRBNF17975514X	Elder, 1922-2013	p
+FRBNF139319376	Malkovich, 1953-....	p
+FRBNF139305405	Dafoe, 1955-....	p
+FRBNF146547519	Jeanneteau, 1963-....	p
+FRBNF146862326	Kruk-Nishioka, 1935-....	p
+FRBNF150550510	Vezyroglou, 1970-....	p
+FRBNF139397250	Houseman, 1902-1988	p
+FRBNF126790150	Miller, 1939-....	p
+FRBNF150579056	Palma, 1971-....	p
+FRBNF11913982X	Maillet, 19..-....	p
+FRBNF14067231X	Carlson, 1944-2022	p
+FRBNF118785787	Société Radio-Canada	c
+FRBNF13930210X	Val	p
+FRBNF141176832	Maddin, 1956-....	p
+FRBNF11925586X	Stoker, 1847-1912	p
+FRBNF140074970	Balderston, 1889-1954	p
+FRBNF138951693	Herrmann, 1911-1975	p
+FRBNF118656461	Opéra national de Paris	c
+FRBNF11909778X	Kinski, 1926-1991	p
+FRBNF158913390	Martinez, 1969-....	p
+FRBNF138945313	Glass, 1937-....	p
+FRBNF138942833	Ganz, 1941-2019	p
+FRBNF119290515	Welles, 1915-1985	p
+FRBNF125848615	Adjani, 1955-....	p
+FRBNF119027973	Finné, 1944-....	p
+FRBNF122135293	Lee, 1922-2015	p
+FRBNF119074414	Herzog, 1942-....	p
+FRBNF119006737	Druillet, 1944-....	p
+FRBNF138969595	Mahler, 1860-1911	p
+FRBNF138935397	Dusapin, 1955-....	p
+FRBNF123630151	Falké, 1884-1947	p
+FRBNF121261182	Paul-Margueritte, 1886-1955	p
+FRBNF126302398	Paul-Margueritte, 1885-1971	p
+FRBNF118657734	Université Toulouse-Jean Jaurès	c
+FRBNF118897380	Aziza, 1937-....	p
+FRBNF119145772	Marigny, 1939-....	p
+FRBNF119172698	Murnau, 1888-1931	p
+FRBNF119317873	Nouvelles fantastiques	g
+FRBNF119318772	Dictionnaires	g
+FRBNF119336101	Thèses et écrits académiques	g
+FRBNF119346985	Ballet	g
+FRBNF119347724	Anthologies	g
+FRBNF119388870	Livres illustrés pour enfants	g
+FRBNF119487345	Vlad, 1430?-1476?	p
+FRBNF119491030		n
+FRBNF119498199		n
+FRBNF119524135	Littérature fantastique	g
+FRBNF119562602	Fac-similés	g
+FRBNF11976234X	15e siècle	t
+FRBNF119791686	Notes, esquisses, etc.	g
+FRBNF119966477	Dans la littérature	t
+FRBNF120861936	Cazacu, 1946-....	p
+FRBNF120868852	Browning, 1882-1962	p
+FRBNF121138614	Expressionnisme (cinéma)	t
+FRBNF121178391	Lang, 1890-1976	p
+FRBNF121216618	Lugosi, 1882-1956	p
+FRBNF121506653	Gallotta, 1950-....	p
+FRBNF121697023	Pozzuoli	p
+FRBNF121714679	Erdmann, 1882-1942	p
+FRBNF121791444	Sipière	p
+FRBNF122027652	Sendre-Haïdar	p
+FRBNF12209507X	Gaumont	c
+FRBNF122613366	Hart, 1960-....	p
+FRBNF122704428	Humphries	p
+FRBNF123453434	Ménégaldo, 1947-....	p
+FRBNF123733354	Coppola, 1939-....	p
+FRBNF125187886	Comédies (cinéma)	g
+FRBNF128234597	Lanone	p
+FRBNF135762495	Wiene, 1881-1938	p
+FRBNF135776299	Valls de Gomis, 1973-....	p
+FRBNF136162418	Hughes, 1964-....	p
+FRBNF137702881	Galeen, 1882-1949	p
+FRBNF138797188	Columbia pictures	c
+FRBNF138825673	Nonesuch	c
+FRBNF138918800	Brooks, 1926-....	p
+FRBNF138979696	Nielsen, 1926-2010	p
+FRBNF139044909	The Kronos quartet	c
+FRBNF139387797	Kilar, 1932-2013	p
+FRBNF139544832	Hopkins, 1937-....	p
+FRBNF139544896	Oldman, 1958-....	p
+FRBNF139617337	Mann	p
+FRBNF139993250	Ryder, 1971-....	p
+FRBNF140174771	MacNicol, 1954-....	p
+FRBNF140179836	Manners, 1900-1998	p
+FRBNF140217393	Weber, 1961-....	p
+FRBNF14048907X	De Luca, 19..-....	p
+FRBNF140489094	Haberman	p
+FRBNF140984049	Fort, 1900-1945	p
+FRBNF141633163	Chandler, 1906-1965	p
+FRBNF142253840	Schröder, 1891-1967	p
+FRBNF142378071	Wangenheim, 1895-1975	p
+FRBNF142777914	Castle Rock Entertainment	c
+FRBNF146279804	Recio, 1964-....	p
+FRBNF146547202	Bruguière, 1950-....	p
+FRBNF146717081	Bériot, 1963-....	p
+FRBNF151065289	Wegener, 1874-1948	p
+FRBNF167184042	Ziane-Bruneel, 1963-....	p
+FRBNF17068333X	Montmayeur	p
