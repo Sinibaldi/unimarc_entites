@@ -1,6 +1,7 @@
 # coding: utf-8
 
 import streamlit as st
+import streamlit.components.v1 as components
 import pandas as pd
 
 import os
@@ -56,22 +57,36 @@ def st_generate_short_results_html(dict_results, dict_entities, query, type_enti
     for result in dict_results:
         short_result = st_generate_short_result(result, dict_results[result], i)
         label = dict_results[result].label
-        link = f'[{label}](results/full_results_{result}.html)'
+        link = f'results/full_results_{result}.html'
         auteur = " ; ".join(dict_results[result].resp.keys())
         expression = " ; ".join([dict_results[result].toExpressions[idexpr] for idexpr in dict_results[result].toExpressions])
         expression = " ; ".join([idexpr for idexpr in dict_results[result].toExpressions])
         manif = " ; ".join([dict_results[result].toManifs[idmanif] for idmanif in dict_results[result].toManifs])
         manif = " ; ".join([idmanif for idmanif in dict_results[result].toManifs])
-        df[result] = {"Label": st.markdown(link), "Auteurs": auteur, 
+        df[result] = {"id": result, "label": make_clickable(label, link), "Auteurs": auteur, 
                       "Expressions": expression, "Manifestations": manif}
 
         # st.text(short_result)
         i += 1
     df = pd.DataFrame(df)
-    st.table(df.transpose())
-    link = '[Notice 1](results/full_results_UMLRM0001.html)'
-    st.markdown(link, unsafe_allow_html=True)
-    
+    df = df.transpose()
+    # df = df.to_html(escape=False)
+    # st.markdown(df.to_html(render_links=True),unsafe_allow_html=True)
+    st.write(df.to_html(escape=False, index=False), unsafe_allow_html=True)
+    # link = '[Notice 1](results/full_results_UMLRM0001.html)'
+    # st.markdown(link, unsafe_allow_html=True)"""    
+    HtmlFile = open("results/full_results_UMLRM0001.html", 'r', encoding='utf-8')
+    source_code = HtmlFile.read() 
+    # print(source_code)
+    components.html(source_code, height=1200)
+
+
+def make_clickable(label, link):
+    # target _blank to open new window
+    # extract clickable text to display for your link
+    return f'<a target="_blank" href="{link}">{label}</a>'
+
+
 def st_generate_short_result(entityid, entity, i):
     line = f"{str(i)}. {entity.label}"
     return line
