@@ -44,11 +44,12 @@ def st_display_html_results(dict_results, dict_entities, query, type_entity):
     #       une page "results/short_results.html"  avec la liste des résultats (abrégés)
     #       et une page "results/full_results_0.html" qui pour chaque résultat génère une page HTML numérotée
 
-    short_html = st_generate_short_results_html(dict_results, dict_entities, query, type_entity) # renvoie le code HTML
+    short_html = st_generate_short_results_html(dict_results, dict_entities, query, type_entity, "list") # renvoie le code HTML
     # full_html = generate_full_results_html(dict_results, dict_entities, query, type_entity)   # renvoie une liste de code HTML
 
-def st_generate_short_results_html(dict_results, dict_entities, query, type_entity):
+def st_generate_short_results_html(dict_results, dict_entities, query, type_entity, format="table"):
     # st.write(dict_results)
+    format = "table"
     i = 1
     df = {}
     labels = []
@@ -56,30 +57,38 @@ def st_generate_short_results_html(dict_results, dict_entities, query, type_enti
     expressions = []
     manifs = []
     for result in dict_results:
-        short_result = st_generate_short_result(result, dict_results[result], i)
-        label = dict_results[result].label
         link = f'results/full_results_{result}.html'
-        auteur = " ; ".join(dict_results[result].resp.keys())
-        expression = " ; ".join([dict_results[result].toExpressions[idexpr] for idexpr in dict_results[result].toExpressions])
-        expression = " ; ".join([idexpr for idexpr in dict_results[result].toExpressions])
-        manif = " ; ".join([dict_results[result].toManifs[idmanif] for idmanif in dict_results[result].toManifs])
-        manif = " ; ".join([idmanif for idmanif in dict_results[result].toManifs])
-        df[result] = {"id": result, "label": make_clickable(label, link), "Auteurs": auteur, 
-                      "Expressions": expression, "Manifestations": manif}
-
-        # st.text(short_result)
+        link = f"https://htmlpreview.github.io/?https://raw.githubusercontent.com/Lully/metadata_notebooks/recherche/UnimarcLRM/results/full_results_{result}.html"
+        if format == "table":        
+            label = dict_results[result].label
+            auteur = " ; ".join(dict_results[result].resp.keys())
+            expression = " ; ".join([dict_results[result].toExpressions[idexpr] for idexpr in dict_results[result].toExpressions])
+            expression = " ; ".join([idexpr for idexpr in dict_results[result].toExpressions])
+            manif = " ; ".join([dict_results[result].toManifs[idmanif] for idmanif in dict_results[result].toManifs])
+            manif = " ; ".join([idmanif for idmanif in dict_results[result].toManifs])
+            df[result] = {"id": result, "label": make_clickable(label, link), "Auteurs": auteur, 
+                        "Expressions": expression, "Manifestations": manif}
+        else:
+            short_result = st_generate_short_result(result, dict_results[result], i)
+            st.text(short_result)
+            if st.button('Afficher la notice', key=result):
+                if st.button('Replier la notice', key=f"{result}-repli"):
+                    pass
+                HtmlFile = open(link, 'r', encoding='utf-8')
+                source_code = HtmlFile.read() 
+                components.html(source_code, height=1200)
         i += 1
-    df = pd.DataFrame(df)
-    df = df.transpose()
-    # df = df.to_html(escape=False)
-    # st.markdown(df.to_html(render_links=True),unsafe_allow_html=True)
-    st.write(df.to_html(escape=False, index=False), unsafe_allow_html=True)
+    if format == "table":
+        df = pd.DataFrame(df)
+        df = df.transpose()
+        # df = df.to_html(escape=False)
+        # st.markdown(df.to_html(render_links=True),unsafe_allow_html=True)
+        st.write(df.to_html(escape=False, index=False), unsafe_allow_html=True)
     # link = '[Notice 1](results/full_results_UMLRM0001.html)'
     # st.markdown(link, unsafe_allow_html=True)"""    
-    HtmlFile = open("results/full_results_UMLRM0001.html", 'r', encoding='utf-8')
-    source_code = HtmlFile.read() 
-    # print(source_code)
-    components.html(source_code, height=1200)
+    # HtmlFile = open("results/full_results_UMLRM0001.html", 'r', encoding='utf-8')
+    # source_code = HtmlFile.read() 
+    # components.html(source_code, height=1200)"""
 
 
 def make_clickable(label, link):
