@@ -49,7 +49,7 @@ def st_display_html_results(dict_results, dict_entities, query, type_entity):
 
 def st_generate_short_results_html(dict_results, dict_entities, query, type_entity, format="table"):
     # st.write(dict_results)
-    format = "table"
+    # format = "table"
     i = 1
     df = {}
     labels = []
@@ -72,8 +72,8 @@ def st_generate_short_results_html(dict_results, dict_entities, query, type_enti
             short_result = st_generate_short_result(result, dict_results[result], i)
             st.text(short_result)
             if st.button('Afficher la notice', key=result):
-                if st.button('Replier la notice', key=f"{result}-repli"):
-                    pass
+                # if st.button('Replier la notice', key=f"{result}-repli"):
+                #    pass
                 HtmlFile = open(link, 'r', encoding='utf-8')
                 source_code = HtmlFile.read() 
                 components.html(source_code, height=1200)
