@@ -2,6 +2,7 @@
 
 import streamlit as st
 import streamlit.components.v1 as components
+import webbrowser
 import pandas as pd
 from lxml import etree
 
@@ -49,7 +50,7 @@ def st_display_html_results(dict_results, dict_entities, query, type_entity):
 
 def st_generate_short_results_html(dict_results, dict_entities, query, type_entity, format="table"):
     # st.write(dict_results)
-    format = "table"
+    # format = "table"
     i = 1
     df = {}
     labels = []
@@ -72,11 +73,12 @@ def st_generate_short_results_html(dict_results, dict_entities, query, type_enti
             short_result = st_generate_short_result(result, dict_results[result], i)
             st.text(short_result)
             if st.button('Afficher la notice', key=result):
+                    webbrowser.open_new_tab(link)
                 # if st.button('Replier la notice', key=f"{result}-repli"):
                 #    pass
-                HtmlFile = open(link, 'r', encoding='utf-8')
-                source_code = HtmlFile.read() 
-                components.html(source_code, height=1200)
+                # HtmlFile = open(link, 'r', encoding='utf-8')
+                # source_code = HtmlFile.read() 
+                # components.html(source_code, height=1200)
         i += 1
     if format == "table":
         df = pd.DataFrame(df)
@@ -98,8 +100,16 @@ def make_clickable(label, link):
 
 
 def st_generate_short_result(entityid, entity, i):
-    line = f"{str(i)}. {entity.label}"
-    return line
+    short_result = []
+    short_result.append(f"{str(i)}. {entity.label}")
+    version = "version"
+    if len(entity.toExpressions)> 1:
+        version = "versions"
+    ex = "exemplaire"
+    if len(entity.toItems)> 1:
+        version = "exemplaires"
+    short_result.append(f"    {str(len(entity.toExpressions))} {version}, {str(len(entity.toItems))} {ex}")
+    return "\n".join(short_result)
 
 
 if __name__ == "__main__":
