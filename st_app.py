@@ -50,7 +50,7 @@ def st_display_html_results(dict_results, dict_entities, query, type_entity):
 
 def st_generate_short_results_html(dict_results, dict_entities, query, type_entity, format="table"):
     # st.write(dict_results)
-    # format = "table"
+    format = "table"
     i = 1
     df = {}
     labels = []
