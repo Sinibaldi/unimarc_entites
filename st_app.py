@@ -106,8 +106,8 @@ def st_generate_short_result(entityid, entity, i):
     if len(entity.toExpressions)> 1:
         version = "versions"
     ex = "exemplaire"
-    if len(entity.toItems)> 1:
-        version = "exemplaires"
+    if len(entity.toItems) > 1:
+        ex = "exemplaires"
     short_result.append(f"    {str(len(entity.toExpressions))} {version}, {str(len(entity.toItems))} {ex}")
     return "\n".join(short_result)
 
