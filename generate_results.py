@@ -340,7 +340,8 @@ def generate_entete(query, type_entity, no_resultat=0):
     entete += f'\n<p>Rappel de la recherche : <strong>{query}</strong></p>'
     if no_resultat:
         # En tête d'une notice détaillée
-        entete += f"\n<p class='back'><a href='short_results_{type_entity}.html'>Retour à la liste des résultats</a></p>"
+        # entete += f"\n<p class='back'><a href='short_results_{type_entity}.html'>Retour à la liste des résultats</a></p>"
+        entete += f"\n<p class='back'><a href='javascript:close_window();'>Retour à la liste des résultats</a></p>"
         entete += f'<h1>Résultat {str(no_resultat)}</h1>'
     else:
         # En tête d'une liste de résultats

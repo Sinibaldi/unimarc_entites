@@ -50,7 +50,7 @@ def st_display_html_results(dict_results, dict_entities, query, type_entity):
 
 def st_generate_short_results_html(dict_results, dict_entities, query, type_entity, format="table"):
     # st.write(dict_results)
-    format = "table"
+    # format = "table"
     i = 1
     df = {}
     labels = []
@@ -70,10 +70,10 @@ def st_generate_short_results_html(dict_results, dict_entities, query, type_enti
             df[result] = {"id": result, "label": make_clickable(label, link), "Auteurs": auteur, 
                         "Expressions": expression, "Manifestations": manif}
         else:
-            short_result = st_generate_short_result(result, dict_results[result], i)
-            st.text(short_result)
-            if st.button('Afficher la notice', key=result):
-                    webbrowser.open_new_tab(link)
+            short_result = st_generate_short_result(result, dict_results[result], link, i)
+            st.markdown(short_result)
+            # if st.button('Afficher la notice', key=result):
+            #         webbrowser.open_new_tab(link)
                 # if st.button('Replier la notice', key=f"{result}-repli"):
                 #    pass
                 # HtmlFile = open(link, 'r', encoding='utf-8')
@@ -99,9 +99,9 @@ def make_clickable(label, link):
     return f'<a target="_blank" href="{link}">{label}</a>'
 
 
-def st_generate_short_result(entityid, entity, i):
+def st_generate_short_result(entityid, entity, link, i):
     short_result = []
-    short_result.append(f"{str(i)}. {entity.label}")
+    short_result.append(f"{str(i)}. **[{entity.label}]({link})**")
     version = "version"
     if len(entity.toExpressions)> 1:
         version = "versions"
@@ -109,7 +109,8 @@ def st_generate_short_result(entityid, entity, i):
     if len(entity.toItems) > 1:
         ex = "exemplaires"
     short_result.append(f"    {str(len(entity.toExpressions))} {version}, {str(len(entity.toItems))} {ex}")
-    return "\n".join(short_result)
+    return """\\
+""".join(short_result)
 
 
 if __name__ == "__main__":
