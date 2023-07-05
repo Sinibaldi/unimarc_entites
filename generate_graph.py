@@ -4,7 +4,7 @@ explain = """Génération de graphes en SVG
              à intégrer aux pages de résultats HTML (en pied de page)"""
 
 import os
-import graphviz
+import graphviz as graphviz
 
 def generate_graph_from_oeuvre(entity, dict_entities, size, shape="rect"):
     # A partir d'une manifestation, renvoie un graphe GraphViz
