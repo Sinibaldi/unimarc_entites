@@ -69,7 +69,7 @@ def st_generate_short_results_html(dict_results, dict_entities, query, type_enti
     expressions = []
     manifs = []
     for result in dict_results:
-        link = f'results/full_results_{result}.html'
+        shortlink = f'results/full_results_{result}.html'
         link = f"https://htmlpreview.github.io/?https://raw.githubusercontent.com/Sinibaldi/unimarc_entites/main/results/full_results_{result}.html"
         if format == "table":        
             label = dict_results[result].label
@@ -83,6 +83,10 @@ def st_generate_short_results_html(dict_results, dict_entities, query, type_enti
         else:
             short_result = st_generate_short_result(result, dict_results[result], link, i)
             st.markdown(short_result)
+            with st.expander("Voir le détail"):
+                HtmlFile = open(shortlink, 'r', encoding='utf-8')
+                source_code = HtmlFile.read() 
+                components.html(source_code, height=2000)
             # if st.button('Afficher la notice', key=result):
             #         webbrowser.open_new_tab(link)
                 # if st.button('Replier la notice', key=f"{result}-repli"):
@@ -97,6 +101,7 @@ def st_generate_short_results_html(dict_results, dict_entities, query, type_enti
         # df = df.to_html(escape=False)
         # st.markdown(df.to_html(render_links=True),unsafe_allow_html=True)
         st.write(df.to_html(escape=False, index=False), unsafe_allow_html=True)
+
     # link = '[Notice 1](results/full_results_UMLRM0001.html)'
     # st.markdown(link, unsafe_allow_html=True)"""    
     # HtmlFile = open("results/full_results_UMLRM0001.html", 'r', encoding='utf-8')
@@ -117,8 +122,8 @@ def st_generate_short_result(entityid, entity, link, i):
     if len(entity.toExpressions)> 1:
         expression = "versions"
     manifestation = "édition"
-    if len(entity.toManifs)> 1:
-        expression = "éditions"
+    if len(entity.toManifs) > 1:
+        manifestation = "éditions"
 
     ex = "exemplaire"
     if len(entity.toItems) > 1:
