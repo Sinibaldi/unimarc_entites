@@ -34,8 +34,19 @@ def form(dict_entities, oeuvres, expressions):
     results_o = search(kw_search, oeuvres, dict_entities, "all")
     results_e = search(kw_search, expressions, dict_entities, "all")
 
+    type_entity = "o"
+    switch_results = {"o": results_o, "e": results_e}
+
     st.text(f"Nombre de résultats : {str(len(results_o))} oeuvre(s) - {str(len(results_e))} expression(s)")
-    st_display_html_results(results_o, dict_entities, kw_search, "o")
+
+    display_option = st.select_slider("Affichage par :", ["oeuvres", "expressions"])
+    type_entity = ["e", "o"][display_option=="oeuvres"]
+
+
+    st_display_html_results(switch_results[type_entity], dict_entities, kw_search, type_entity)
+    
+
+    display_html_results(switch_results[type_entity], dict_entities, kw_search, type_entity)
     # display_html_results(results_e, dict_entities, kw_search, "e")
 
 
@@ -102,13 +113,20 @@ def make_clickable(label, link):
 def st_generate_short_result(entityid, entity, link, i):
     short_result = []
     short_result.append(f"{str(i)}. **[{entity.label}]({link})**")
-    version = "version"
+    expression = "version"
     if len(entity.toExpressions)> 1:
-        version = "versions"
+        expression = "versions"
+    manifestation = "édition"
+    if len(entity.toManifs)> 1:
+        expression = "éditions"
+
     ex = "exemplaire"
     if len(entity.toItems) > 1:
         ex = "exemplaires"
-    short_result.append(f"    {str(len(entity.toExpressions))} {version}, {str(len(entity.toItems))} {ex}")
+    if entity.type == "o":
+        short_result.append(f"    {str(len(entity.toExpressions))} {expression}, {str(len(entity.toItems))} {ex}")
+    else:
+        short_result.append(f"    {str(len(entity.toManifs))} {manifestation}, {str(len(entity.toItems))} {ex}")
     return """\\
 """.join(short_result)
 
