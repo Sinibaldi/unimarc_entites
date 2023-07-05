@@ -59,7 +59,7 @@ def st_generate_short_results_html(dict_results, dict_entities, query, type_enti
     manifs = []
     for result in dict_results:
         link = f'results/full_results_{result}.html'
-        link = f"https://htmlpreview.github.io/?https://raw.githubusercontent.com/Lully/metadata_notebooks/recherche/UnimarcLRM/results/full_results_{result}.html"
+        link = f"https://htmlpreview.github.io/?https://raw.githubusercontent.com/Sinibaldi/unimarc_entites/main/results/full_results_{result}.html"
         if format == "table":        
             label = dict_results[result].label
             auteur = " ; ".join(dict_results[result].resp.keys())
